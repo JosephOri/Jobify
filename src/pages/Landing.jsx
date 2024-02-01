@@ -1,6 +1,6 @@
-import main from '../images/main.svg';
+import main from '../assets/images/main.svg';
 import { Link } from 'react-router-dom';
-import logo from '../images/logo.svg';
+import logo from '../assets/images/logo.svg';
 import styled from 'styled-components';
 const Landing = () => {
   return (

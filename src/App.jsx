@@ -1,4 +1,3 @@
-import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import {
   HomeLayout,
@@ -7,7 +6,7 @@ import {
   Login,
   DashboardLayout,
   Error,
-} from './assets/pages';
+} from './pages';
 
 const router = createBrowserRouter([
   {
